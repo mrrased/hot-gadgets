@@ -1,0 +1,82 @@
+a{
+    text-decoration: none;
+}
+/*--carousel part Start--*/
+.carousel-banner{
+    padding-left: 100px ;
+}
+.title-text{
+    color: #1F1F1F;
+}
+.buy-now-button{
+    background-color: #1F1F1F;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 25px;
+}
+.container{
+    padding-bottom: 100px;
+}
+.buy-now-button:hover{
+    background-image: linear-gradient(45deg, #4289FF, #07f8c3);
+    border: none;
+}
+/*--carousel part End--*/
+
+/*--smartphone part start--*/
+.see-all{
+    float: right;
+    color: #FF9D00;
+}
+.smart-img2{
+    height: 287px;
+    width: 280px;
+}
+.smart-img3{
+    height: 287px;
+    width: 287px;
+}
+.smart-img1{
+    height: 280px;
+    width: 280px;
+}
+
+.card-body{
+    text-align: center;
+}
+.card-footer{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.see-all:hover{
+    text-decoration: none;
+    color: #FF9D00;
+}
+.paragraph-style{
+    color: #707070;
+}
+/*--smartphone part End--*/
+
+/*--categories part start--*/
+
+.categories{
+  border-bottom: 8px solid #FF9D00;
+  border-image-slice: 1;
+  border-radius: 10px;
+}
+
+
+/*--categories part End--*/
+/*--carousel part start--*/
+/*--carousel part End--*/
+/*--carousel part start--*/
+/*--carousel part End--*/
+/*--carousel part start--*/
+/*--carousel part End--*/
