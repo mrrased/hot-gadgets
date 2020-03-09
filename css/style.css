@@ -3,7 +3,7 @@ a{
 }
 /*--carousel part Start--*/
 .carousel-banner{
-    padding-left: 100px ;
+    padding: 20px 40px ;
 }
 .title-text{
     color: #1F1F1F;
@@ -17,8 +17,16 @@ a{
 .container{
     padding-bottom: 100px;
 }
+
 .buy-now-button:hover{
     background-image: linear-gradient(45deg, #4289FF, #07f8c3);
+    border: none;
+}
+.carousel-indicators .active{
+    background-image: linear-gradient(45deg, #ff9c35, #FFD019 );
+    height: 12px;
+    width: 45px;
+    border-radius: 40px;
     border: none;
 }
 /*--carousel part End--*/
@@ -27,18 +35,6 @@ a{
 .see-all{
     float: right;
     color: #FF9D00;
-}
-.smart-img2{
-    height: 287px;
-    width: 280px;
-}
-.smart-img3{
-    height: 287px;
-    width: 287px;
-}
-.smart-img1{
-    height: 280px;
-    width: 280px;
 }
 
 .card-body{
@@ -62,6 +58,10 @@ a{
 .paragraph-style{
     color: #707070;
 }
+.smart-img{
+    width: 280px;
+    height: 287px;
+}
 /*--smartphone part End--*/
 
 /*--categories part start--*/
@@ -70,6 +70,17 @@ a{
   border-bottom: 8px solid #FF9D00;
   border-image-slice: 1;
   border-radius: 10px;
+}
+.bag-img{
+    align-content: center;
+    padding-bottom: 20px;
+}
+.bag-title{
+    text-align: center;
+}
+.beuty-img{
+    padding-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 
