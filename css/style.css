@@ -45,7 +45,7 @@ a{
 }
 .card{
     border: none;
-    box-shadow: 5px 5px 10px gray;
+    box-shadow: 5px 5px 19px lightgray;
 }
 .card-footer{
     border-top: none;
@@ -72,18 +72,17 @@ a{
   border-radius: 10px;
 }
 .bag-img{
-    align-content: center;
-    padding-bottom: 20px;
-}
-.bag-title{
-    text-align: center;
-}
-.beuty-img{
-    padding-bottom: 20px;
-    padding-bottom: 20px;
+    border-radius: 5px 5px 5px 25px;
 }
 
+.beauty-img{
+    margin-bottom: 50px;
+    border-radius: 5px 5px 25px 5px;
 
+}
+.col-sm-12{
+    margin-bottom: 20px;
+}
 /*--categories part End--*/
 /*--carousel part start--*/
 /*--carousel part End--*/
